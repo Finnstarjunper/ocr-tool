@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+
+# 应用运行时产物
+ocr_debug.log
+*.ocr.txt
+*.meta.txt
+
+# 测试截图（含个人屏幕内容，不入库）
+test_code2.png
+test_dim.png
+gui_shot.png
+
+# IDE
+.vscode/
+.idea/
